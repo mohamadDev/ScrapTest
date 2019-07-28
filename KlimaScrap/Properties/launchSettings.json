@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "KlimaScrap": {
+      "commandName": "Project",
+      "commandLineArgs": "ftp://ftp-cdc.dwd.de/climate_environment/CDC/observations_germany/climate/daily/kl/recent/  n"
+    }
+  }
+}
